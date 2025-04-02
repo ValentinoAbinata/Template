@@ -1,0 +1,1 @@
+Terminal > Run Task ... >> GCC
